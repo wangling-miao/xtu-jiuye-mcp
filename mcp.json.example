@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "xtu-jiuye": {
+      "type": "http",
+      "url": "https://xtu-jiuye-mcp.<你的账号>.workers.dev/1725d2a2-4a65-4608-a623-20667e1cae3f/mcp"
+    }
+  }
+}
