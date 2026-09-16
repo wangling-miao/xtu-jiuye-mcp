@@ -1,0 +1,6 @@
+name = "xtu-jiuye-mcp"
+main = "src/index.js"
+compatibility_date = "2025-10-01"
+
+[vars]
+ACCESS_UUID = "1725d2a2-4a65-4608-a623-20667e1cae3f"
